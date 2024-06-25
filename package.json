@@ -1,5 +1,5 @@
 {
-  "name": "my-website",
+  "name": "",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -10,6 +10,6 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^4.9.2"
+    "astro": "^4.11.1"
   }
 }
